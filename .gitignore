@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Linear Regression Train.csv
+Linear Regression Test.csv
